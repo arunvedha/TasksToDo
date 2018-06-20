@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TasksToDo</string>
+    <string name="editor_activity_title_new_task">New Task</string>
+    <string name="editor_activity_title_edit_task">Edit Task</string>
+    <string name="category_task">TASK</string>
+    <string name="hint_task">Enter Your task Here</string>
+    <string name="editor_insert_task_failed">failed to save task</string>
+    <string name="editor_insert_task_successful">successfully entered task</string>
+    <string name="editor_update_task_failed">failed to update</string>
+    <string name="editor_update_task_successful">successfully updated</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+    <string name="keep_editing">keep editing</string>
+    <string name="discard">discard</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="delete_dialog_msg">delete this task?</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="editor_delete_task_failed">error deleting task</string>
+    <string name="editor_delete_task_successful">successsfully deleted</string>
+    <string name="empty_view_subtitle_text">add a task</string>
+    <string name="empty_view_title_text">no tasks for today yet</string>
+    <string name="category_tasks">TASK:</string>
+    <string name="title_collection_widget">Todo App - My Tasks</string>
+</resources>
